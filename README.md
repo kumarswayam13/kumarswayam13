@@ -87,5 +87,5 @@
   <br>
   <strong>"Precision in Logic, Excellence in Design."</strong>
   <br><br>
-  <img src="footer.jpg" alt="Footer" width="100%">
+  <img src="footer.jpeg" alt="Footer" width="100%">
 </div>
